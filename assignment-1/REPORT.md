@@ -4,13 +4,13 @@ Please follow the provided structure carefully and complete all of the sections 
 
 ## Personal information
 
-**Name**: *TODO*
+**Name**: *Vladyslav Maksyk*
 
 List the GitHub usernames of your team here. If you are working alone, then write your GitHub username as the team leader and leave the list of additional team members empty.
 
-**Team leader**: *TODO*
+**Team leader**: *vladmaksyk*
 
-**Additional team members**: *TODO*
+**Additional team members**: *Muhib*
 
 If you are working as a part of a team, only the a single person, the *team leader* needs to submit the report. If that is not you, then do not edit anything below this point.
 
